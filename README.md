@@ -1,75 +1,39 @@
-```markdown
-# Hi, I'm Sunidhi 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### Quant | Statistics | ML
+###
 
----
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-![banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop)
+###
 
-## About Me
+<h2 align="left">About me</h2>
 
-- 🎓 Engineering Physics graduate from IIT Guwahati  
-- 💼 Business Analyst at Axis Bank  
-- 🤖 Focused on Machine Learning, Deep Learning, and Statistical Modeling  
-- 📊 Interested in Quantitative Finance and Market Modeling  
-- 🧠 Exploring LLMs, NLP, and Multimodal AI systems  
+###
 
----
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-## What I Do
+###
 
-- Build ML models for real-world problems  
-- Work with time series, anomaly detection, and risk modeling  
-- Apply statistics to extract insights from data  
-- Experiment with LLMs for problem solving and automation  
+<h2 align="left">I code with</h2>
 
----
+###
 
-## Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-**Languages**  
-Python • C++  
-
-**ML / AI**  
-PyTorch • TensorFlow • Scikit-learn • NLP • LLMs  
-
-**Data & Stats**  
-Pandas • NumPy • Statistical Modeling • A/B Testing  
-
-**Tools**  
-Git • Docker • LangChain  
-
----
-
-## Projects
-
-- 📌 **JEE Advanced AI Solver**  
-  Built an automated system using LLMs (GPT, Gemini, LLaMA) to solve advanced physics/math problems.
-
-- 📌 **Multimodal Sarcasm Detection**  
-  Fine-tuned models like LLaVA, MiniGPT-4, and InstructBLIP for NLP research.
-
-- 📌 **Market Risk from News**  
-  Designed a risk scoring system using sentiment analysis and financial news data.
-
----
-
-## Interests
-
-- Quantitative Research  
-- Financial Markets  
-- Stochastic Processes  
-- Optimization & Algorithms  
-
----
-
-## Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📫 Email: your.email@example.com
-
----
-
-⭐ *Always building at the intersection of ML, statistics, and real-world decision making.*
-```
+###
