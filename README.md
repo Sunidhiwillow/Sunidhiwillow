@@ -1,7 +1,7 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey! What's up?</h1>
 
-<p align="left">I'm Sunidhi, a Machine Learning & Quant enthusiast working at the intersection of data, statistics, and real-world decision making.</p>
+<p align="left">I'm Sunidhi, focused on Machine Learning and Quantitative Finance, working at the intersection of data, statistics, and real-world decision making.</p>
 
 <h2 align="left">About me</h2>
 
@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
