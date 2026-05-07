@@ -1,13 +1,14 @@
 
 <h1 align="left">Hey! What's up?</h1>
 
-<p align="left">I'm Sunidhi, focused on Machine Learning and Quantitative Finance, working at the intersection of data, statistics, and real-world decision making.</p>
+<p align="left">I'm Sunidhi, focused on Machine Learning and Quantitative Finance, working at the intersection of data, statistics, and real world decision making.</p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
 🎯 Goal: Transition into a Quant / ML Research role<br>
 📚 Currently diving deep into stochastic processes, time series & quantitative finance<br>
+👋 Exploring open source contributions and open to collaboration in NLP, Quant, and ML
 🎲 Fun fact: I read a lot, wouldn’t mind a quiet life in the woods with books.
 </p>
 
@@ -41,8 +42,8 @@
 <h2 align="left">Projects</h2>
 
 <p align="left">
-📌 JEE Advanced AI Solver – LLM-based system using GPT, Gemini & LLaMA<br>
-📌 Multimodal Sarcasm Detection – Fine-tuned LLaVA, MiniGPT-4, InstructBLIP<br>
-📌 Market Risk Modeling – Sentiment-driven financial risk scoring system
+📌 JEE Advanced AI Solver - LLM-based system using GPT, Gemini & LLaMA<br>
+📌 Multimodal Sarcasm Detection - Fine-tuned LLaVA, MiniGPT-4, InstructBLIP<br>
+📌 Market Risk Modeling - Sentiment driven financial risk scoring system
 </p>
 
