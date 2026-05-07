@@ -9,6 +9,7 @@
 🎯 Goal: Transition into a Quant / ML Research role<br>
 📚 Currently diving deep into stochastic processes, time series & quantitative finance<br>
 👋 Exploring open source contributions and open to collaboration in NLP, Quant, and ML<br>
+♟️ Enjoy solving competitive programming and probability problems — easily my favorite way to think<br>
 🎲 Fun fact: I read a lot, wouldn’t mind a quiet life in the woods with books.
 </p>
 
