@@ -6,10 +6,9 @@
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Building ML systems & breaking them to learn better<br>
-📚 Currently diving deep into stochastic processes, time series & quantitative finance<br>
 🎯 Goal: Transition into a Quant / ML Research role<br>
-🎲 Fun fact: I’ve worked on solving JEE Advanced problems using LLMs
+📚 Currently diving deep into stochastic processes, time series & quantitative finance<br>
+🎲 Fun fact: I read a lot, wouldn’t mind a quiet life in the woods with books.
 </p>
 
 <h2 align="left">I work with</h2>
